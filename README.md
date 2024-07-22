@@ -37,3 +37,26 @@ To find the code for a specific figure/table, have a look at this overview table
 | ExtDataFig9d | 09_Overlap_Age_DE_psychopathology_DE/01_Overlap_Age_DE_&_psychiatric_Disease_DE_v2.ipynb |
 | ExtDataFig10a,b | 03_Descriptive_stats_cohort/02_PRS_comparison_v2.ipynb |
 | ExtDataFig10c | 04_selection_of_covariates/02_Selection_of_covariates_v2.ipynb |
+| SupplTable1 | 04_selection_of_covariates/02_Selection_of_covariates_v2.ipynb |
+| SupplTable2 | 04_selection_of_covariates/02_Selection_of_covariates_v2.ipynb |
+| SupplTable3 | 03_Descriptive_stats_cohort/01_Descriptive_stats_cohort_v2.ipynb |
+| SupplTable4 | 10_Cell_type_composition_analysis/01_Cell_type_composition_analysis.ipynb |
+| SupplTable5,6 | 05_Differential_gene_expression_analysis/01_DGE_analysis_Age_psychDisease_mashR_v2.ipynb |
+| SupplTable7 | 05_Differential_gene_expression_analysis/05b_DGE_analysis_Age_on_downsampled_adata_v2.ipynb |
+| SupplTable8 | 05_Differential_gene_expression_analysis/01_DGE_analysis_Age_psychDisease_mashR_v2.ipynb |
+| SupplTable9 | 05_Differential_gene_expression_analysis/02_DGE_analysis_Age_major_cell_types_v2.ipynb |
+| SupplTable10 | 05_Differential_gene_expression_analysis/04_DGE_analysis_Age_full_pseudobulk&validation_v2.ipynb |
+| SupplTable11 | 05_Differential_gene_expression_analysis/04_DGE_analysis_Age_full_pseudobulk&validation_v2.ipynb |
+| SupplTable12 | 05_Differential_gene_expression_analysis/06_Validation_Age_DE_across_cell_types_v2.ipynb |
+| SupplTable13 | 07_Overlap_Age_DE_Alzheimer_DE/01_Enrichment_age-genes_in_AD_v2.ipynb |
+| SupplTable14 | 08_Biological_age_estimation/03_epigenetic_age_acceleration_v2.ipynb |
+| SupplTable15 | 08_Biological_age_estimation/04_calculation_transcriptomic_age_&_acceleration_v2.ipynb |
+| SupplTable16 | 05_Differential_gene_expression_analysis/01_DGE_analysis_Age_psychDisease_mashR_v2.ipynb |
+| SupplTable17 | 09_Overlap_Age_DE_psychopathology_DE/01_Overlap_Age_DE_&_psychiatric_Disease_DE_v2.ipynb |
+| SupplTable18 | 09_Overlap_Age_DE_psychopathology_DE/01_Overlap_Age_DE_&_psychiatric_Disease_DE_v2.ipynb |
+|SupplTable19  | 03_Descriptive_stats_cohort/02_PRS_comparison_v2.ipynb |
+
+
+
+
+
