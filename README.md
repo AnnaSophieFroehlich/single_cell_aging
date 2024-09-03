@@ -1,5 +1,5 @@
 # single_cell_aging
-This repo contains all analysis scripts of the manuscript <b>Cell-type-specific aging effects in the human OFC and implications for psychiatric disease </b> by Fröhlich et al.
+This repo contains all analysis scripts of the manuscript <b>Single-nucleus transcriptomic profiling of human orbitofrontal cortex reveals convergent effects of aging and psychiatric disease</b> by Fröhlich et al. https://www.nature.com/articles/s41593-024-01742-z
 
 To find the code for a specific figure/table, have a look at this overview table:
 | Figure/Table  | Script path |
